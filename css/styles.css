@@ -16,3 +16,7 @@ hr {
   border-width: 7px;
   width: 10%;
 }
+
+img {
+  border-radius: 100%;
+}
